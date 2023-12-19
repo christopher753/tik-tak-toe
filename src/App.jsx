@@ -91,7 +91,7 @@ function App () {
                       </div>
                       )
                 }
-                <button onClick={resetGame} className='bg-indigo-400/70 hover:bg-indigo-400 self-center transition-colors font-semibold px-4 py-2 rounded-lg'>Voler a jugar</button>
+                <button onClick={resetGame} className='bg-indigo-400/70 hover:bg-indigo-400 self-center transition-colors font-semibold px-4 py-2 rounded-lg'>Volver a jugar</button>
               </div>
             </div>
           )
